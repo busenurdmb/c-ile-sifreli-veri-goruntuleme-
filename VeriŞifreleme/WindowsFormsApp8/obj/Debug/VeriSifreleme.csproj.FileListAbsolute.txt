@@ -1,0 +1,10 @@
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\VeriSifreleme.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\VeriSifreleme.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\VeriSifreleme.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\BUSE NUR\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
